@@ -1,7 +1,6 @@
 # Cold Chain Wise Architecture
 
 ## Overview
-
 Cold Chain Wise uses a cloud-based architecture designed for scalable logistics intelligence and predictive analytics.
 
 ---
