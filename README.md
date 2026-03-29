@@ -1,4 +1,3 @@
-# GAT-RL-Cold-Chain-Intelligence
 # 🚛 GAT-RL: Cold Chain AI Intelligence Platform
 
 **GAT-RL** is a premium, AI-powered logistics optimization platform designed to eliminate vaccine and food spoilage through real-time autonomous diagnostics, predictive risk modeling, and intelligent routing.
